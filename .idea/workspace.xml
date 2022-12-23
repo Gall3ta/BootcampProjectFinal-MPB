@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b090c40-c5f4-4bda-a892-7c2d7e61652f" name="Changes" comment="start project">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cucumber/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/com/cucumber/crud.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testSuite/CRUDTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testSuite/CRUDTaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,28 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.CRUDTaskTest.test">
+  <component name="RunManager" selected="Gradle.CRUDTaskTest">
+    <configuration name="BootcampProjectFinal-MPB [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="CRUDTaskTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -106,8 +130,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CRUDTaskTest.test" />
         <item itemvalue="Gradle.CRUDTaskTest" />
+        <item itemvalue="Gradle.BootcampProjectFinal-MPB [dependencies]" />
+        <item itemvalue="Gradle.CRUDTaskTest.test" />
       </list>
     </recent_temporary>
   </component>
